@@ -1,0 +1,141 @@
+@media (max-width: 319px) { 
+    
+.ibx9{
+    width:80px !important;
+   border-radius: 50% !important;
+   overflow: hidden;
+   margin: left;
+   margin-top: -10px;
+}
+ .hdr{
+        background:linear-gradient(to right,rgba(253, 165, 0, 0.993),rgb(255, 145, 0));
+        background-size: cover;
+        height: 300px;
+        clip-path: circle(70% at 50% 0%)!important;
+        position: relative;
+        z-index: 100;
+    }
+
+}
+@media (min-width: 320px) { 
+
+    .ibx9{
+        width:80px !important;
+       border-radius: 50% !important;
+       overflow: hidden;
+       margin: left;
+       margin-top: -10px;
+   }
+
+   .txt1{
+       font-size: 20px!important;
+       text-align: center!important;
+   }
+}
+@media (min-width: 360px) { 
+    
+    .ibx9{
+        width:80px !important;
+       border-radius: 50% !important;
+       overflow: hidden;
+       margin: left;
+       margin-top: -10px;
+   }
+
+
+
+}
+
+
+@media (min-width:480px) { 
+    
+    .ibx9{
+        width:80px !important;
+       border-radius: 50% !important;
+       overflow: hidden;
+       margin: left;
+       margin-top: -10px;
+   }
+
+}
+
+@media (min-width: 576px) { 
+    
+    .ibx9{
+        width:80px !important;
+       border-radius: 50% !important;
+       overflow: hidden;
+       margin: left;
+       margin-top: -10px;
+   }
+
+ }
+
+ @media (min-width: 768px) { 
+     
+    .ibx9{
+        width:80px !important;
+       border-radius: 50% !important;
+       overflow: hidden;
+       margin:auto!important;
+       margin-top: -10px;
+   }
+
+
+  }
+
+
+
+ @media (min-width: 992px) { ..
+    
+       
+    .ibx9{
+        width:80px !important;
+       border-radius: 50% !important;
+       overflow: hidden;
+       margin:auto!important;
+       margin-top: -10px;
+   }
+
+
+
+
+}
+
+
+
+ @media (min-width: 1200px) { 
+        
+    .ibx9{
+        width:80px !important;
+       border-radius: 50% !important;
+       overflow: hidden;
+       margin:auto!important;
+       margin-top: -10px;
+   }
+
+
+
+  }
+ 
+ 
+ 
+
+  
+
+ @media (min-width: 1280px) { 
+        
+    .ibx9{
+        width:80px !important;
+       border-radius: 50% !important;
+       overflow: hidden;
+       margin:auto!important;
+       margin-top: -10px;
+   }
+
+
+
+  }
+ 
+ 
+ 
